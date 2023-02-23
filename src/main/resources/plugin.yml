@@ -1,0 +1,7 @@
+name: MonsterBattle
+main: io.github.koba.monsterbattle.MonsterBattlePlugin
+api-version: 1.19
+version: 1.0.0
+author: Koba
+libraries:
+  - io.github.monun:kommand-core:3.1.2
